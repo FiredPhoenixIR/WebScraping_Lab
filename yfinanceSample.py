@@ -1,7 +1,8 @@
 # Extracting Stock Data Using a Python Library
 ''' 
 !pip install yfinance==0.2.4
-!pip install pandas==1.3.3 
+!pip install pandas==1.3.3
+$ pip install yfinance --upgrade --no-cache-dir
 '''
 import yfinance as yf
 import pandas as pd
